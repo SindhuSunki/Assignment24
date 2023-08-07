@@ -1,0 +1,6 @@
+D:\Simplilearn classes\day21\EmpLIb\EmpLIb\bin\Debug\EmpLIb.dll
+D:\Simplilearn classes\day21\EmpLIb\EmpLIb\bin\Debug\EmpLIb.pdb
+D:\Simplilearn classes\day21\EmpLIb\EmpLIb\obj\Debug\EmpLIb.csproj.AssemblyReference.cache
+D:\Simplilearn classes\day21\EmpLIb\EmpLIb\obj\Debug\EmpLIb.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\day21\EmpLIb\EmpLIb\obj\Debug\EmpLIb.dll
+D:\Simplilearn classes\day21\EmpLIb\EmpLIb\obj\Debug\EmpLIb.pdb
